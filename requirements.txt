@@ -21,4 +21,4 @@ scandir==1.10.0
 six==1.14.0
 wcwidth==0.1.8
 Werkzeug==1.0.0
-zipp==1.2.0
+
